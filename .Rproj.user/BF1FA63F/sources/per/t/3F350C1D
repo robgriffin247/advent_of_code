@@ -1,0 +1,26 @@
+{
+    "id": "3F350C1D",
+    "path": "~/github/personal/advent_of_code/solutions2023/aoc_01.r",
+    "project_path": "solutions2023/aoc_01.r",
+    "type": "r_source",
+    "hash": "813269759",
+    "contents": "",
+    "dirty": false,
+    "created": 1701423279530.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,43",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701423298,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701423298049,
+    "read_only": false,
+    "read_only_alternatives": []
+}
